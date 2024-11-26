@@ -1,0 +1,211 @@
+[
+    {
+        "id": "673ce10f9fe8f",
+        "creator": "facundopaiver",
+        "title": "Preguntas de Javascript",
+        "questions": {
+            "1": {
+                "text": "\u00bfQu\u00e9 palabra clave se usa para declarar una variable que solo puede ser asignada una vez?",
+                "answers": [
+                    "let",
+                    "var",
+                    "const",
+                    "final"
+                ],
+                "correctAnswer": "const"
+            },
+            "2": {
+                "text": "\u00bfCu\u00e1l de las siguientes opciones es una forma correcta de definir una funci\u00f3n en JavaScript?",
+                "answers": [
+                    "function myFunction() { ... }",
+                    "define function myFunction() { ... }",
+                    "let myFunction() => { ... }",
+                    "func myFunction() { ... }"
+                ],
+                "correctAnswer": "function myFunction() { ... }"
+            },
+            "3": {
+                "text": "\u00bfQu\u00e9 m\u00e9todo se usa para agregar un nuevo elemento al final de un array en JavaScript?",
+                "answers": [
+                    "array.push()",
+                    "array.add()",
+                    "array.append()",
+                    "array.insert()"
+                ],
+                "correctAnswer": "array.push()"
+            },
+            "4": {
+                "text": "\u00bfCu\u00e1l es la salida de console.log(2 + '2'); en JavaScript?",
+                "answers": [
+                    "4",
+                    "22",
+                    "undefined",
+                    "NaN"
+                ],
+                "correctAnswer": "22"
+            },
+            "5": {
+                "text": "\u00bfCu\u00e1l es el m\u00e9todo correcto para redondear el n\u00famero 4.7 al entero m\u00e1s cercano en JavaScript?",
+                "answers": [
+                    "Math.round(4.7)",
+                    "Math.ceil(4.7)",
+                    "Math.floor(4.7)",
+                    "Math.rnd(4.7)"
+                ],
+                "correctAnswer": "Math.round(4.7)"
+            },
+            "6": {
+                "text": "\u00bfQu\u00e9 evento se usa para ejecutar una funci\u00f3n cuando el usuario hace clic en un elemento?",
+                "answers": [
+                    "onmouseclick",
+                    "onclick",
+                    "onmouseover",
+                    "onfocus"
+                ],
+                "correctAnswer": "onclick"
+            }
+        }
+    },
+    {
+        "id": "673ce19ba8635",
+        "creator": "facundo",
+        "title": "Cuestionario de Monlau",
+        "questions": {
+            "1": {
+                "text": "Qui\u00e9n es Roberto?",
+                "answers": [
+                    "Profesor de M7",
+                    "Profesor de M3",
+                    "Profesor de M133",
+                    "Profesor de M77"
+                ],
+                "correctAnswer": "Profesor de M7"
+            }
+        }
+    },
+    {
+        "id": "673d014973d0a",
+        "creator": "kobu",
+        "title": "Kobu",
+        "questions": {
+            "1": {
+                "text": "Kobu",
+                "answers": [
+                    "Kobu",
+                    "KOBU"
+                ],
+                "correctAnswer": "Kobu"
+            }
+        }
+    },
+    {
+        "id": "6745fe928f652",
+        "creator": "Roberto",
+        "title": "Roberto",
+        "questions": {
+            "1": {
+                "text": "Roberto",
+                "answers": [
+                    "Roberto",
+                    "Roberto2"
+                ],
+                "correctAnswer": "Roberto"
+            }
+        }
+    },
+    {
+        "id": "674602bdb5991",
+        "creator": "facundo",
+        "title": "faf",
+        "questions": {
+            "1": {
+                "text": "fa",
+                "answers": [
+                    "fa",
+                    "fa",
+                    "af",
+                    "wdsf"
+                ],
+                "correctAnswer": "af"
+            }
+        }
+    },
+    {
+        "id": "67460ac8be44e",
+        "creator": "facundo",
+        "title": "Cuestionario",
+        "questions": {
+            "1": {
+                "text": "Pregunta",
+                "answers": [
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5"
+                ],
+                "correctAnswer": "4"
+            }
+        }
+    },
+    {
+        "id": "67460c4d24976",
+        "creator": "Roberto",
+        "title": "PHP",
+        "questions": {
+            "1": {
+                "text": "PHP",
+                "answers": [
+                    "PHP1",
+                    "PHP2",
+                    "PHP3"
+                ],
+                "correctAnswer": "PHP1"
+            }
+        }
+    },
+    {
+        "id": "67460dbb02fb9",
+        "creator": "Roberto",
+        "title": "PHP2",
+        "questions": {
+            "1": {
+                "text": "PHP2",
+                "answers": [
+                    "PHP2.1",
+                    "PHP2.2"
+                ],
+                "correctAnswer": "PHP2.1"
+            },
+            "2": {
+                "text": "PHP3",
+                "answers": [
+                    "PHP3.1",
+                    "PHP3.2"
+                ],
+                "correctAnswer": "PHP3.2"
+            }
+        }
+    },
+    {
+        "id": "67460ded7fde9",
+        "creator": "Roberto",
+        "title": "Descripci\u00f3n de empresa que desarrolla p\u00e1ginas web",
+        "questions": []
+    },
+    {
+        "id": "67460f565303c",
+        "creator": "facundopaiver",
+        "title": "PHPPHP",
+        "questions": {
+            "1": {
+                "text": "PHPPHP",
+                "answers": [
+                    "PHP",
+                    "PHP2"
+                ],
+                "correctAnswer": "PHP"
+            }
+        }
+    }
+]
