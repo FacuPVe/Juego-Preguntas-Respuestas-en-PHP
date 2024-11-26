@@ -4,5 +4,6 @@ Funcionalidades del sitio web:
 - Login.
 - Visualización de resultados de los cuestionarios.
 - Creación de nuevos cuestionarios.
+
 Página de registro/login:
 ![alt text](image.png)
